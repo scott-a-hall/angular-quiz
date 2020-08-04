@@ -1,0 +1,107 @@
+[
+    {
+        "label": "What year did the United States declare its independence?",
+        "choices": [
+            {
+                "value": "1805",
+                "correct": false
+            },
+            {
+                "value": "1776",
+                "correct": true
+            },
+            {
+                "value": "1492",
+                "correct": false
+            },
+            {
+                "value": "1863",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "label": "What country did the United States declare is independence from?",
+        "choices": [
+            {
+                "value": "Great Britain",
+                "correct": true
+            },
+            {
+                "value": "Canada",
+                "correct": false
+            },
+            {
+                "value": "Mexico",
+                "correct": false
+            },
+            {
+                "value": "France",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "label": "How many colonies made up the United States when they declared their indendence?",
+        "choices": [
+            {
+                "value": "5",
+                "correct": false
+            },
+            {
+                "value": "7",
+                "correct": false
+            },
+            {
+                "value": "10",
+                "correct": false
+            },
+            {
+                "value": "13",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "label": "Who was the first President of the United States?",
+        "choices": [
+            {
+                "value": "Alexander Hamilton",
+                "correct": false
+            },
+            {
+                "value": "Benjamin Franklin",
+                "correct": false
+            },
+            {
+                "value": "Thomas Jefferson",
+                "correct": false
+            },
+            {
+                "value": "George Washington",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "label": "What are the first 10 amendments to the United States Constitution called?",
+        "choices": [
+            {
+                "value": "The 10 Commandments",
+                "correct": false
+            },
+            {
+                "value": "The Emancipation Proclamation",
+                "correct": false
+            },
+            {
+                "value": "The Bill of Rights",
+                "correct": true
+            },
+            {
+                "value": "The Articles of Confederation",
+                "correct": false
+            }
+        ]
+    }
+]
